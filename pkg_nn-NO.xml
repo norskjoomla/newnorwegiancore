@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension type="package" version="3.4" method="upgrade">
-  <name>New Norwegian Language Pack</name>
+  <name>Norwegian Nynorsk Language Pack</name>
   <packagename>nn-NO</packagename>
   <version>3.4.1.1</version>
   <creationDate>2015-04-15</creationDate>
