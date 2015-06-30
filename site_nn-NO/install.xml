@@ -29,6 +29,7 @@
     <filename>nn-NO.files_joomla.sys.ini</filename>
     <filename>nn-NO.finder_cli.ini</filename>
     <filename>nn-NO.ini</filename>
+		<filename>nn-NO.lib_fof.ini</filename>
 		<filename>nn-NO.lib_fof.sys.ini</filename>
 		<filename>nn-NO.lib_idna_convert.sys.ini</filename>
     <filename>nn-NO.lib_joomla.ini</filename>
